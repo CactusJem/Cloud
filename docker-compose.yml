@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  coffee-shop:
+    image: coffee-shop
+    build: .
+    ports:
+      - "8080:80"
+    container_name: coffee-shop
+    restart: unless-stopped
