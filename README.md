@@ -1,3 +1,6 @@
+Coffeeshop with the usage of Firebase as a stock for the coffee beans, with Dockerfile added
+
+
 Create new folder(anything)
 Put the tar inside the folder (Do not open/unzip the tar)
 
